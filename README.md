@@ -1,6 +1,6 @@
-# 🎓 UET-Main AI Chatbot
+# 🎓 UET-Main AI Chatbot Clone
 
-An AI Chatbot dashboard for **UET Lahore / UIET** students. 
+An AI Chatbot dashboard for **UET Lahore / UET** students. 
 Ask about sports, admissions, facilities, and general UET queries - all in one place.
 
 Built with **Python + Streamlit**
