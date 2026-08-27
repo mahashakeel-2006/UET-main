@@ -1,0 +1,125 @@
+{ 
+"qna":[
+   {
+    "question": "cgpa",
+    "answers":["CGPA is your cummulative Grade Point Average.Use my CGPA calculator to find it!","Your CGPA is average of all semester GPAs."] 
+
+   },
+
+  {
+    "question": "uet",
+    "answers":["UET Lahore is the best engineering university in Pakistan!","Go UET!"]
+
+
+   },
+
+
+   { 
+   "question":"hi",
+    "answers":["Hellow there!","How can i help?"]
+   },
+
+   {
+    "question": "data science",
+    "answers": ["UET MAIN: Data Science at UET focuses on ML, Statistics, and Big Data. Python + SQL are key!", "Welcome to DS! We use Pandas, NumPy, and Scikit-learn a lot."]
+   },
+   {
+    "question": "machine learning",
+    "answers": ["UET MAIN: Start with Linear Regression, then Decision Trees. Use Scikit-learn library.", "ML is 80% data cleaning, 20% modeling. Focus on EDA first!"]
+   },
+   {
+    "question": "python for ds",
+    "answers": ["UET MAIN recommends: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn", "Practice on Kaggle. That's what DS students do."]
+   },
+   {
+    "question": "sql",
+    "answers": ["SQL is must for DS jobs. Learn SELECT, JOIN, GROUP BY.", "Every DS interview asks SQL. Practice on LeetCode."]
+   },
+   {
+    "question": "statistics",
+    "answers": ["UET MAIN: Key topics - Mean, Median, Std Dev, Hypothesis Testing, P-value", "Stats is the foundation of ML. Don't skip it!"]
+   },
+   {
+    "question": "kaggle",
+    "answers": ["Join Kaggle competitions! It's the best portfolio for DS students.", "UET MAIN suggests: Titanic, House Prices datasets to start."]
+   },
+   {
+    "question": "final year project",
+    "answers": ["Popular DS FYPs: Stock Prediction, Fake News Detection, Recommendation System", "Use real datasets. Recruiters love that."]
+   },
+   {
+    "question": "ds jobs",
+    "answers": ["DS roles: Data Analyst, ML Engineer, BI Analyst. Companies: Systems Ltd, 10Pearls, Arbisoft", "Build 3 projects on GitHub to get a DS job."]
+   },
+   {
+    "question": "deep learning",
+    "answers": ["Start with TensorFlow or PyTorch after ML basics.", "UET MAIN: Learn Neural Networks, CNN for images, RNN for text."]
+   },
+   {
+    "question": "excel",
+    "answers": ["Yes we still use Excel! Pivot tables + VLOOKUP are essential for Data Analyst roles.", "Power BI + Excel = Job ready."]
+   },
+   {
+    "question": "roadmap",
+    "answers": ["UET MAIN DS Roadmap: Python > Stats > SQL > ML > DL > Deployment > Projects", "1 project per month and you're set."]
+   },
+   {
+    "question": "power bi",
+    "answers": ["Power BI and Tableau are used for dashboards in industry.", "Make 1 dashboard and add it to GitHub."]
+   },
+   {
+    "question": "interview",
+    "answers": ["DS interviews ask: Python coding, SQL, Stats questions, Case studies", "Prepare 3 projects to explain in detail."]
+   },
+   {
+    "question": "professors",
+    "answers": ["UET MAIN: DS faculty are great. Ask them about research opportunities!", "Do research with profs to boost your CV."]
+   },
+   {
+    "question": "github",
+    "answers": ["UET MAIN tip: Push all your DS notebooks to GitHub with good READMEs", "Green GitHub = DS job offers."]
+   },
+   {
+    "question": "admission",
+    "answers": ["UET MAIN: Admissions open in July. Check uet.edu.pk for merit.", "For admission criteria, visit the official UET website."]
+   },
+   {
+    "question": "hostel",
+    "answers": ["Hostels are available on merit. 6 hostels for boys, 2 for girls.", "Apply for hostel during admission."]
+   },
+   {
+    "question": "societies",
+    "answers": ["We have IEEE, ASME, Drama Society, and LITMUS!", "Join societies to build your CV."]
+   },
+   {
+    "question": "finals",
+    "answers": ["Finals are usually in Dec and May.", "Check academic calendar on UET website."]
+   },
+   {
+    "question": "scholarship",
+    "answers": ["UET MAIN: Check HEC and Punjab Educational Endowment Fund scholarships.", "Need-based scholarships are available."]
+   },
+   {
+    "question": "python",
+    "answers": ["UET MAIN recommends starting with Python for AI and Data Science!", "Ask me about your Python assignment."]
+   },
+   {
+    "question": "placement",
+    "answers": ["Companies like Systems Ltd, Arbisoft, and Netsol visit UET for placements.", "Focus on GitHub and projects!"]
+   },
+   {
+    "question": "library",
+    "answers": ["Central Library is open 8am to 8pm.", "You need your UET ID card to borrow books."]
+   },
+   {
+    "question": "sports",
+    "answers": ["We have cricket, football, swimming pool for boys and badminton grounds.", "Sports gala happens every year!"]
+   },
+   {
+    "question": "thank you",
+    "answers": ["You're welcome! UET MAIN is always here to help.", "Glad I could help!"]
+   }
+
+]
+
+}
